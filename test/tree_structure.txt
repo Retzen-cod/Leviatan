@@ -1,0 +1,28 @@
+├── .env
+├── ASCII_animation.py
+├── __pycache__
+│   └── ASCII_animation.cpython-312.pyc
+├── bot.py
+├── src
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-312.pyc
+│   │   └── commandhandler.cpython-312.pyc
+│   ├── commandhandler.py
+│   └── commands
+│       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── __init__.cpython-312.pyc
+│       │   ├── admin.cpython-312.pyc
+│       │   ├── ping.cpython-312.pyc
+│       │   ├── proposer.cpython-312.pyc
+│       │   ├── utility.cpython-312.pyc
+│       │   └── voters.cpython-312.pyc
+│       ├── admin.py
+│       ├── ping.py
+│       ├── proposer.py
+│       ├── utility.py
+│       └── voters.py
+└── test
+    ├── ascii_tree.py
+    └── static_analysis.py
